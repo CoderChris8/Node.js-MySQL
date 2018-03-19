@@ -1,0 +1,15 @@
+{
+  "name": "homework-10-mysql",
+  "version": "1.0.0",
+  "description": "Amazon-Like Storefront with MySQL skills",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Enriquez",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
